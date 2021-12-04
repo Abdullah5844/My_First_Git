@@ -7,6 +7,9 @@ public class My_First_Project {
 		
 		System.out.println(name);
 		System.out.println(RNo);
+		
+		name="Abdullah_02";
+		RNo="20i-0000";
 
 	}
 
